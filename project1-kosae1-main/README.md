@@ -1,6 +1,4 @@
 ##Prject 1 ReadMe
-## Link to heroku https://quiet-reaches-70236.herokuapp.com
-## Link to heroku for project milestone2  https://glacial-sands-01821.herokuapp.com
 
 
 ## Frameworks
