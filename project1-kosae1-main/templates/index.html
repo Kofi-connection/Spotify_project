@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Music Player</title>
+        <link rel="stylesheet" href={{ url_for( 'static', filename='style.css' ) }} />
+        <h1>Music Player</h1>
+    </head>
+    <body>
+        
+        <div>
+            <p><b>{{artist_name}}</b></p>
+            <p><b>{{song_name}}</b></p>
+            <img src={{image}} alt="Artist image">
+        </div>
+        <div>
+            <a href={{song_lyrics}}>Song Lyrics</a>
+        </div>
+        
+        <figure>
+            <figcaption>Listen to {{song_name}}</figcaption>
+            <audio
+                controls
+                src={{preview_url}}>
+                    Your browser does not support the
+                    <code>audio</code> element.
+            </audio>
+        </figure>
+    </body>
+</html>

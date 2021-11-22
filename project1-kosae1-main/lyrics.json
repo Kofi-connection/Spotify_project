@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "hits": [
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 12,
+                    "api_path": "/songs/56218",
+                    "full_title": "Come Together by\u00a0The\u00a0Beatles",
+                    "header_image_thumbnail_url": "https://images.genius.com/5a6f82f01d02914d41ebf2cd773a26be.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5a6f82f01d02914d41ebf2cd773a26be.1000x1000x1.jpg",
+                    "id": 56218,
+                    "lyrics_owner_id": 29141,
+                    "lyrics_state": "complete",
+                    "path": "/The-beatles-come-together-lyrics",
+                    "pyongs_count": 73,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/04df901371547072bab671b1cca50912.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/04df901371547072bab671b1cca50912.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 1029502
+                    },
+                    "title": "Come Together",
+                    "title_with_featured": "Come Together",
+                    "url": "https://genius.com/The-beatles-come-together-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/586",
+                        "header_image_url": "https://images.genius.com/817d7fb288bb1c8456140d7e4987e7e7.400x226x148.gif",
+                        "id": 586,
+                        "image_url": "https://images.genius.com/c771d3ee1c0969503cdaf34edf76f38a.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Beatles",
+                        "url": "https://genius.com/artists/The-beatles"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5291128",
+                    "full_title": "ThE EnTiRe MiXtApE by\u00a0Triston\u00a0C.",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "id": 5291128,
+                    "lyrics_owner_id": 8397013,
+                    "lyrics_state": "complete",
+                    "path": "/Triston-c-the-entire-mixtape-annotated",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "ThE EnTiRe MiXtApE",
+                    "title_with_featured": "ThE EnTiRe MiXtApE",
+                    "url": "https://genius.com/Triston-c-the-entire-mixtape-annotated",
+                    "primary_artist": {
+                        "api_path": "/artists/2122594",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "id": 2122594,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Triston C.",
+                        "url": "https://genius.com/artists/Triston-c"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 1,
+                    "api_path": "/songs/2230433",
+                    "full_title": "Come Together by\u00a0The\u00a0New Beatles",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "id": 2230433,
+                    "lyrics_owner_id": 1549345,
+                    "lyrics_state": "complete",
+                    "path": "/The-new-beatles-come-together-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Come Together",
+                    "title_with_featured": "Come Together",
+                    "url": "https://genius.com/The-new-beatles-come-together-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/526540",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "id": 526540,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The New Beatles",
+                        "url": "https://genius.com/artists/The-new-beatles"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 6,
+                    "api_path": "/songs/119951",
+                    "full_title": "Heart 2 Heart by\u00a0Hoodie\u00a0Allen (Ft.\u00a0Jared\u00a0Evan)",
+                    "header_image_thumbnail_url": "https://images.genius.com/3384570ff57fab58ac29c3223d94cb34.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3384570ff57fab58ac29c3223d94cb34.500x500x1.jpg",
+                    "id": 119951,
+                    "lyrics_owner_id": 189561,
+                    "lyrics_state": "complete",
+                    "path": "/Hoodie-allen-heart-2-heart-lyrics",
+                    "pyongs_count": 7,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3384570ff57fab58ac29c3223d94cb34.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3384570ff57fab58ac29c3223d94cb34.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 20714
+                    },
+                    "title": "Heart 2 Heart",
+                    "title_with_featured": "Heart 2 Heart (Ft.\u00a0Jared\u00a0Evan)",
+                    "url": "https://genius.com/Hoodie-allen-heart-2-heart-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/2057",
+                        "header_image_url": "https://images.genius.com/4f375608ab5590d4d521984088cefb3c.607x605x1.png",
+                        "id": 2057,
+                        "image_url": "https://images.genius.com/4f375608ab5590d4d521984088cefb3c.607x605x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hoodie Allen",
+                        "url": "https://genius.com/artists/Hoodie-allen",
+                        "iq": 5052
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 5,
+                    "api_path": "/songs/6766811",
+                    "full_title": "Stop the Hatred by\u00a0MC\u00a0Jin (Ft.\u00a0Wyclef\u00a0Jean)",
+                    "header_image_thumbnail_url": "https://images.genius.com/9d77b7b388c357a27bb5cff0b6c4793e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/9d77b7b388c357a27bb5cff0b6c4793e.1000x1000x1.jpg",
+                    "id": 6766811,
+                    "lyrics_owner_id": 4418683,
+                    "lyrics_state": "complete",
+                    "path": "/Mc-jin-stop-the-hatred-lyrics",
+                    "pyongs_count": 1,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9d77b7b388c357a27bb5cff0b6c4793e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/9d77b7b388c357a27bb5cff0b6c4793e.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false
+                    },
+                    "title": "Stop the Hatred",
+                    "title_with_featured": "Stop the Hatred (Ft.\u00a0Wyclef\u00a0Jean)",
+                    "url": "https://genius.com/Mc-jin-stop-the-hatred-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/567",
+                        "header_image_url": "https://images.genius.com/751bf43bb4e1e5852ab44bce0b2813d8.1000x525x1.jpg",
+                        "id": 567,
+                        "image_url": "https://images.genius.com/a94cedf0532d286ff74867c33dbd57ca.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Jin",
+                        "url": "https://genius.com/artists/Mc-jin"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 30,
+                    "api_path": "/songs/69727",
+                    "full_title": "Purple by\u00a0Kraft\u00a0the Sunwalker",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "id": 69727,
+                    "lyrics_owner_id": 74255,
+                    "lyrics_state": "complete",
+                    "path": "/Kraft-the-sunwalker-purple-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Purple",
+                    "title_with_featured": "Purple",
+                    "url": "https://genius.com/Kraft-the-sunwalker-purple-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/18809",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "id": 18809,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kraft the Sunwalker",
+                        "url": "https://genius.com/artists/Kraft-the-sunwalker"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5581010",
+                    "full_title": "'06 by\u00a0Rob\u00a0Riley (Ft.\u00a0Epperson)",
+                    "header_image_thumbnail_url": "https://images.genius.com/0eab5647b0b8f941279617e4f34efeec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/0eab5647b0b8f941279617e4f34efeec.1000x1000x1.jpg",
+                    "id": 5581010,
+                    "lyrics_owner_id": 111711,
+                    "lyrics_state": "complete",
+                    "path": "/Rob-riley-06-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0eab5647b0b8f941279617e4f34efeec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/0eab5647b0b8f941279617e4f34efeec.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u201906",
+                    "title_with_featured": "'06 (Ft.\u00a0Epperson)",
+                    "url": "https://genius.com/Rob-riley-06-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/1073240",
+                        "header_image_url": "https://images.genius.com/4f00a84fb7525846c19224b03dbc9fb1.1000x563x1.png",
+                        "id": 1073240,
+                        "image_url": "https://images.genius.com/c790cd6cf5b8e331c5a56df9ed1c780a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rob Riley",
+                        "url": "https://genius.com/artists/Rob-riley",
+                        "iq": 1230
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5645011",
+                    "full_title": "Change by\u00a0Suave\u00a0Sounds",
+                    "header_image_thumbnail_url": "https://images.genius.com/65512a60897376899ee39c647b4793d7.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/65512a60897376899ee39c647b4793d7.320x320x1.jpg",
+                    "id": 5645011,
+                    "lyrics_owner_id": 11067325,
+                    "lyrics_state": "complete",
+                    "path": "/Suave-sounds-change-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/65512a60897376899ee39c647b4793d7.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/65512a60897376899ee39c647b4793d7.320x320x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Change",
+                    "title_with_featured": "Change",
+                    "url": "https://genius.com/Suave-sounds-change-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/2272632",
+                        "header_image_url": "https://images.genius.com/c83f655ef4e980c4b11eb984aded8cc7.1000x1000x1.jpg",
+                        "id": 2272632,
+                        "image_url": "https://images.genius.com/c83f655ef4e980c4b11eb984aded8cc7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suave Sounds",
+                        "url": "https://genius.com/artists/Suave-sounds"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 1,
+                    "api_path": "/songs/245045",
+                    "full_title": "Reserved for the Bosses by\u00a0Ry\u00a0Guy",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "id": 245045,
+                    "lyrics_owner_id": 66335,
+                    "lyrics_state": "complete",
+                    "path": "/Ry-guy-reserved-for-the-bosses-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Reserved for the Bosses",
+                    "title_with_featured": "Reserved for the Bosses",
+                    "url": "https://genius.com/Ry-guy-reserved-for-the-bosses-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/19670",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "id": 19670,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ry Guy",
+                        "url": "https://genius.com/artists/Ry-guy"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5808308",
+                    "full_title": "COVID-19 by\u00a0Qubik",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "id": 5808308,
+                    "lyrics_owner_id": 10242403,
+                    "lyrics_state": "complete",
+                    "path": "/Qubik-covid-19-lyrics",
+                    "pyongs_count": null,
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1632259205",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "COVID-19",
+                    "title_with_featured": "COVID-19",
+                    "url": "https://genius.com/Qubik-covid-19-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/2112269",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "id": 2112269,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1632259205",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Qubik",
+                        "url": "https://genius.com/artists/Qubik"
+                    }
+                }
+            }
+        ]
+    }
+}
